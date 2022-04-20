@@ -14,10 +14,12 @@
 	- The average fare per driver is highest in rural cities and lowest in urban cities.  The average fare per driver is three times as high for rural cities as urban cities.
 
 Rideshare Data Summary by City Type:
-![This is an image] ()
+![This is an image](https://github.com/JDBrowder523/PyBer_Analysis/blob/main/analysis/ride_data_by_city_type_df.png)
 
 	- The total fare by city type data was plotted on a multi-line graph that showed the total fares per week in order to visualize the weeks that had the highest fares for each city type.  This graph clearly shows that the rural fares are lower than suburban and urban fares.
-![This is an image](
+
+![This is an image](https://github.com/JDBrowder523/PyBer_Analysis/blob/main/analysis/Weekly_total_fares_by_city_type_df.png)
+
 ## Summary:
 	Based on the analysis of PyBer rideshare data, I have the following recommendations:
 	1. More investment should be made towards Urban cities
