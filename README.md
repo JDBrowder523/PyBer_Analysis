@@ -3,10 +3,12 @@
 ## Overview of the Analysis:
 
 ### Purpose:
-	The purpose of this analysis is to use data frames and charts to visualize and understand how city type affects ride share data.  We specifically wanted to see how the fares differed between rural, urban, and suburban cities.
+The purpose of this analysis is to use data frames and charts to visualize and understand how city type affects ride share data.  We specifically wanted to see how the fares differed between rural, urban, and suburban cities.
 
 ## Results:
-	The analysis of ride share data by city type yielded the following results:
+
+The analysis of ride share data by city type yielded the following results:
+
 - The total number of rides is much higher in urban cities than in suburban and rural cities.     The total rides in urban cities are almost three times higher than suburban cities and thirteen times higher than the total rides in rural cities.
 
 - The total number of drivers is much higher in urban cites.  The total drivers in urban cities are five times higher than suburban cities and about thirty times higher than rural cities.
