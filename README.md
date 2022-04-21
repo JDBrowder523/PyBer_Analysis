@@ -9,9 +9,9 @@ The purpose of this analysis is to use data frames and charts to visualize and u
 
 The analysis of ride share data by city type yielded the following results:
 
-- The total number of rides is much higher in urban cities than in suburban and rural cities.     The total rides in urban cities are almost three times higher than suburban cities and thirteen times higher than the total rides in rural cities.
+- The total number of rides is much higher in urban cities than in suburban and rural cities.     The total rides in urban cities is almost three times higher than suburban cities and thirteen times higher than the total rides in rural cities.
 
-- The total number of drivers is much higher in urban cites.  The total drivers in urban cities are five times higher than suburban cities and about thirty times higher than rural cities.
+- The total number of drivers is much higher in urban cites.  The total drivers in urban cities is five times higher than suburban cities and about thirty times higher than rural cities.
 
 - The total revenue from the fares collected on rides is highest in urban cities.  The fare revenue is twice as high in urban cities as in suburban cities and ten times higher than in rural cities.
 
@@ -28,8 +28,8 @@ Rideshare Data Summary by City Type:
 
 ## Summary:
 Based on the analysis of PyBer rideshare data, I have the following recommendations:
-1. More investment should be made towards Urban cities
-- Urban cities have the highest number of riders, drivers, and total revenue and increasing advertising in these specific areas will help increase the total fares and increase profits.
+1. More investment should be made towards Urban cities.
+- Urban cities have the highest number of riders, drivers, and total revenue. Increasing advertising in these specific areas will help increase the total fares and increase profits.
 
 2. Increase the number of drivers in rural cities.
 - Rural cities have the highest fare per ride rate of all city types.  Increasing the number of drivers will allow for more riders to be picked up which will increase revenue and profits.
